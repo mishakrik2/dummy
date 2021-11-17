@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:mishakrik2/terraform1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "terraform1"]
+	remote = origin
+	merge = refs/heads/terraform1
+[branch "terraform-ansible"]
+	remote = origin
+	merge = refs/heads/terraform-ansible

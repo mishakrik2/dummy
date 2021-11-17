@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 6ddff57fde394d8e3f157ba463dc03535a095a42 mishakrik2 <mykhailo.krykunenko@m-krykunenko-2.do.local> 1637140500 +0200	branch: Created from terraform1
+6ddff57fde394d8e3f157ba463dc03535a095a42 f3df403e7fd7ea310ebee1afb0d00d85dee703b9 mishakrik2 <mykhailo.krykunenko@m-krykunenko-2.do.local> 1637140760 +0200	commit: Add ansible
+f3df403e7fd7ea310ebee1afb0d00d85dee703b9 d9b08094a86912ac403cd6439ea90ee0470f1c42 mishakrik2 <mykhailo.krykunenko@m-krykunenko-2.do.local> 1637140940 +0200	commit: Add ansible and gitignore
+d9b08094a86912ac403cd6439ea90ee0470f1c42 970b5564624b7cf16a955e6548cbfd6df86c72b8 mishakrik2 <mykhailo.krykunenko@m-krykunenko-2.do.local> 1637141259 +0200	commit: .gitignore is now working
+970b5564624b7cf16a955e6548cbfd6df86c72b8 d62a3df1ad80e1b76ebc4e1a539937e2456a0ff0 mishakrik2 <mykhailo.krykunenko@m-krykunenko-2.do.local> 1637141935 +0200	commit: test commit
+d62a3df1ad80e1b76ebc4e1a539937e2456a0ff0 4d87296a2f1cf6eab01c4d21e50069bd1bb9a301 mishakrik2 <mykhailo.krykunenko@m-krykunenko-2.do.local> 1637141952 +0200	commit: test commit
